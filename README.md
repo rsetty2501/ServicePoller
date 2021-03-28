@@ -63,6 +63,8 @@ Open any web browser and enter the below URL:
 ```
 http://localhost:8080/
 ```
+After adding few services, it must look like in below screenshot:
+![Alt text](./ExpectedResult.png)
 
 # Things done
 I was able to complete all the basic requirements and some extra requirements:
